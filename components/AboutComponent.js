@@ -11,7 +11,7 @@ function AboutComponent() {
           </Col>
           <Col xs={12} md={6} className="about-details">
             <div>
-              <h2>Venha fazer parte da revolução</h2>
+              <h2>Venha fazer parte da evolução</h2>
               <b>Plataforma totalmente web, que irá te auxiliar na organização das suas informações de coleta.</b>
               <br />
               <br />
@@ -19,7 +19,7 @@ function AboutComponent() {
                 A E-colleta surgiu com a necessidade de agilizar os processos de coleta, contando com
                 organização das informações de coleta, parceria entre o empreendimento e os coletadores em geral, venha, faça parte da evolução.
               </p>
-              <button className="btn btn-custom">Teste Gratis 1 MêS</button>
+              <button className="btn btn-custom">Teste Gratis 1 Mês</button>
             </div>
           </Col>
         </Row>

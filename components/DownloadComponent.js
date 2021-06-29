@@ -5,7 +5,7 @@ function DownloadComponent() {
   return (
     <div className="download-container-bg">
       <Container className="download-component">
-        <h3>Experimente Gratis por 1 mêS</h3>
+        <h3>Experimente Gratis por 1 mês</h3>
         <h3>Conheça a plataforma</h3>
         <p>
          Faça o simples, alcance novos horizontes, venha com a E-coleta
