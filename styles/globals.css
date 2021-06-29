@@ -21,7 +21,15 @@ a {
 }
 /* Background  */
 .background {
-  background-color: #c963ff;
+  background: hsla(279, 100%, 69%, 1);
+
+background: linear-gradient(90deg, hsla(279, 100%, 69%, 1) 0%, hsla(135, 100%, 72%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(279, 100%, 69%, 1) 0%, hsla(135, 100%, 72%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(279, 100%, 69%, 1) 0%, hsla(135, 100%, 72%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#C963FF", endColorstr="#6EFF92", GradientType=1 );
   height: 100vh;
   width: 100vw;
   position: fixed;
