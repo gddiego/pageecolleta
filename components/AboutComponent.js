@@ -19,7 +19,7 @@ function AboutComponent() {
                 A E-colleta surgiu com a necessidade de agilizar os processos de coleta, contando com
                 organização das informações de coleta, parceria entre o empreendimento e os coletadores em geral, venha, faça parte da evolução.
               </p>
-              <button className="btn btn-custom">Texte Gratis 1 MêS</button>
+              <button className="btn btn-custom">Teste Gratis 1 MêS</button>
             </div>
           </Col>
         </Row>
